@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi there 👋# Hi there, I'm Jothika! 👋
+
+I'm a first-year **B.E. Computer Science and Engineering** student passionate about building software, learning new technologies, and solving problems through code.
+
+### 🚀 About Me
+- 🎓 Studying Computer Science & Engineering at **Saveetha Engineering College**
+- 💻 Currently building my foundations in **Python**, **HTML/CSS**, and **Git/GitHub**
+- 🌱 Exploring web development and creative coding with **Scratch**
+- 📚 Outside of tech, I love reading, listening to music, cooking, and exploring history and culture
+
+### 🛠️ Languages & Tools
+- **Languages:** Python, HTML, CSS
+- **Tools:** VS Code, Git, GitHub, Scratch
+
+### 📫 Connect with Me
+- **GitHub:** [@Jothikaramesh1530](https://github.com)
+- **LinkedIn:** [Add your LinkedIn URL here]
+
+---
+✨ *"Always learning, always building."*
 
 <!--
 **Jothikaramesh1530/Jothikaramesh1530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
