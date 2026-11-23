@@ -14,7 +14,9 @@ I'm a first-year **B.E. Computer Science and Engineering** student passionate ab
 
 ### 📫 Connect with Me
 - **GitHub:** [@Jothikaramesh1530](https://github.com)
-- **LinkedIn:** [Add your LinkedIn URL here]
+- **LinkedIn:** [www.linkedin.com/in/jothika-ramesh-88a351451]
+
+
 
 ---
 ✨ *"Always learning, always building."*
