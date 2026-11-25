@@ -8,11 +8,11 @@ I'm a first-year **B.E. Computer Science and Engineering** student passionate ab
 - 🌱 Exploring web development and creative coding with **Scratch**
 - 📚 Outside of tech, I love reading, listening to music, cooking, and exploring history and culture
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 - **Languages:** Python, HTML, CSS
 - **Tools:** VS Code, Git, GitHub, Scratch
 
-### 📫 Connect with Me
+###  Connect with Me
 - **GitHub:** [@Jothikaramesh1530](https://github.com)
 - **LinkedIn:** [www.linkedin.com/in/jothika-ramesh-88a351451]
 
