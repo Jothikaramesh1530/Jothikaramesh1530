@@ -1,4 +1,4 @@
-## Hi there 👋# Hi there, I'm Jothika! 👋
+## Hi there 👋 I'm Jothika! 👋
 
 I'm a first-year **B.E. Computer Science and Engineering** student passionate about building software, learning new technologies, and solving problems through code.
 
